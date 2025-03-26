@@ -1,0 +1,45 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:598
+
+Customer Name:poiu
+
+Customer Phone Number:0741852963
+
+************************************************
+Product		Price	Quantity	Total
+************************************************
+Bath Soap		10	01	10
+Face cream		40	01	40
+Face Wash		60	01	60
+Hair Gel		45	01	45
+Hair Spray		70	01	70
+Body Lotion		90	01	90
+Hand Cream		120	01	120
+Nail Paint		25	01	25
+Moisturizer		99	01	99
+Rice			110	01	110
+Oil			140	01	140
+Daal			130	01	130
+Wheat			32	01	32
+Sugar			42	01	42
+Tea			65	01	65
+Tomato Sauce	101	01	101
+Butter			40	01	40
+Milk			65	01	65
+Coca cola		69	01	69
+Frooti			65	01	65
+Dew				55	01	55
+Sprite			65	01	65
+Pepsi			35	01	35
+Maaza			65	01	65
+Apple Fizz		125	01	125
+Limca			65	01	65
+Mountain Dew		105	01	105
+***********************************************
+ Cosmetic Tax			 Rs :67
+ Grocery Tax			 Rs :36
+ Cold Drink Tax			 Rs :51
+
+Total Bill				 Rs :2087
+***********************************************

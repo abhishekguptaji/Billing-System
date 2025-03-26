@@ -1,0 +1,45 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:939
+
+Customer Name:Abhishek
+
+Customer Phone Number:95558580xx
+
+************************************************
+Product		Price	Quantity	Total
+************************************************
+Bath Soap		10	1	10
+Face cream		40	1	40
+Face Wash		60	1	60
+Hair Gel		45	1	45
+Hair Spray		70	1	70
+Body Lotion		90	1	90
+Hand Cream		120	1	120
+Nail Paint		25	1	25
+Moisturizer		99	1	99
+Rice		110	1	110
+Oil		140	1	140
+Daal		130	1	130
+Wheat		32	1	32
+Sugar		42	1	42
+Tea		65	1	65
+Tomato Sauce		101	1	101
+Butter		40	1	40
+Milk		65	1	65
+Coca cola		69	1	69
+Frooti		65	1	65
+Dew		55	1	55
+Sprite			65	1	65
+Pepsi		35	1	35
+Maaza		65	1	65
+Apple Fizz		125	1	125
+Limca		65	1	65
+Mountain Dew		105	1	105
+***********************************************
+ Cosmetic Tax			 Rs :67
+ Grocery Tax			 Rs :36
+ Cold Drink Tax			 Rs :51
+
+Total Bill				 Rs :2087
+***********************************************

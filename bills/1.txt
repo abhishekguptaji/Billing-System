@@ -1,0 +1,18 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:626
+
+Customer Name:1
+
+Customer Phone Number:1
+
+************************************************
+Product		Price	Quantity	Total
+************************************************
+Face cream		40	1	40
+Body Lotion		90	1	90
+***********************************************
+ Cosmetic Tax			 Rs :15
+
+Total Bill				 Rs :145
+***********************************************

@@ -1,0 +1,45 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:898
+
+Customer Name:Sangam
+
+Customer Phone Number:7410852963
+
+************************************************
+Product		Price	Quantity		Total
+************************************************
+Bath Soap		10	2		20
+Face cream		40	2		80
+Face Wash		60	2		120
+Hair Gel		45	2		90
+Hair Spray		70	2		140
+Body Lotion		90	2		180
+Hand Cream		120	2		240
+Nail Paint		25	2		50
+Moisturizer		99	2		198
+Rice		110	2		220
+Oil		140	2		280
+Daal		130	2		260
+Wheat		32	2		64
+Sugar		42	2		84
+Tea		65	2		130
+Tomato Sauce		101	2		202
+Butter		40	2		80
+Milk		65	2		130
+Coca cola		69	2		138
+Frooti		65	2		130
+Dew		55	2		110
+Sprite		65	2		130
+Pepsi		35	2		70
+Maaza		65	2		130
+Apple Fizz		125	2		250
+Limca		65	2		130
+Limca		105	2		210
+***********************************************
+ Cosmetic Tax			 Rs :134
+ Grocery Tax			 Rs :72
+ Cold Drink Tax			 Rs :103
+
+Total Bill				 Rs :4175
+***********************************************

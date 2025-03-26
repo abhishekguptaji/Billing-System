@@ -1,0 +1,21 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:594
+
+Customer Name:6
+
+Customer Phone Number:6
+
+************************************************
+Product		Price	Quantity		Total
+************************************************
+Hair Gel		45	06		270
+Sugar		42	06		252
+Limca		105	6		630
+***********************************************
+ Cosmetic Tax			 Rs :32
+ Grocery Tax			 Rs :12
+ Cold Drink Tax			 Rs :50
+
+Total Bill				 Rs :1246
+***********************************************

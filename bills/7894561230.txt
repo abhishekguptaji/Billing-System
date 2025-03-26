@@ -1,0 +1,19 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:894
+
+Customer Name:Abhishek
+
+Customer Phone Number:7894561230
+
+************************************************
+Product		Price	Quantity		Total
+************************************************
+Bath Soap		10	1		10
+Face cream		40	1		40
+Hair Spray		70	1		70
+***********************************************
+ Cosmetic Tax			 Rs :14
+
+Total Bill				 Rs :134
+***********************************************

@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:773
+
+Customer Name:6
+
+Customer Phone Number:6
+
+************************************************
+Product		Price	Quantity		Total
+************************************************
+Hair Spray		70	6		420
+***********************************************
+ Cosmetic Tax			 Rs :50
+
+Total Bill				 Rs :470
+***********************************************

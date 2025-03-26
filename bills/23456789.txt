@@ -1,0 +1,27 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:936
+
+Customer Name:adrfgthy
+
+Customer Phone Number:23456789
+
+************************************************
+Product		Price	Quantity	Total
+************************************************
+Bath Soap		10	01	10
+Face cream		40	02	80
+Face Wash		60	02	120
+Hair Gel		45	02	90
+Hair Spray		70	02	140
+Rice		110	02	220
+Daal		130	2	260
+Coca cola		69	01	69
+Frooti		65	2	130
+***********************************************
+ Cosmetic Tax			 Rs :52
+ Grocery Tax			 Rs :24
+ Cold Drink Tax			 Rs :15
+
+Total Bill				 Rs :1210
+***********************************************

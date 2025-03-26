@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:570
+
+Customer Name:
+
+Customer Phone Number:95555858049
+
+************************************************
+Product		Price	Quantity		Total
+************************************************
+Hair Gel		45	1		45
+***********************************************
+ Cosmetic Tax			 Rs :5
+
+Total Bill				 Rs :50
+***********************************************
